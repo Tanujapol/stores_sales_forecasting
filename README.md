@@ -1,1 +1,1 @@
-# stores_sales_forecasting
+This project presents a predictive model for forecasting store sales using historical data. It is designed to help retailers with inventory management, staffing, and strategic decision-making by analyzing past sales trends and providing accurate future sales predictions using time series forecasting techniques.
